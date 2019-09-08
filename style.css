@@ -203,10 +203,3 @@ height: 600px;
 	}
 }
 
-@media(max-width:1280px){
-	.body{
-		height:98vh!important;
-
-	}
-	}
-
